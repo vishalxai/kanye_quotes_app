@@ -22,3 +22,6 @@ A simple Python Tkinter application that displays random Kanye West quotes using
 
 #command to install to be run in terminal 
 pip install requests
+
+#How to use 
+1.Press the kanye face icon button to get a new quote from kanye 

@@ -1,2 +1,22 @@
-# kanye_quotes_app
-A simple Python Tkinter app that displays random Kanye West quotes using the Kanye.rest API.
+# Kanye Quotes App 
+
+A simple Python Tkinter application that displays random Kanye West quotes using the [kanye.rest API](https://kanye.rest/).
+
+---
+
+## Features
+
+- Python Tkinter GUI  
+- Fetches and displays random Kanye West quotes  
+- API integration with kanye.rest  
+- Lightweight and minimal design  
+
+---
+
+## Installation
+
+1. Clone the repository  
+2. Install dependencies 
+
+#command to install to be run in terminal 
+pip install requests
